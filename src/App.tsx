@@ -282,7 +282,7 @@ function Nav() {
         <div className="hidden md:flex items-center gap-3">
           <a
             href={JOBS_URL}
-            target="_blank"
+            
             rel="noopener noreferrer"
             className="text-sm font-semibold text-slate-200 hover:text-white transition-colors px-4 py-2"
           >
@@ -290,7 +290,7 @@ function Nav() {
           </a>
           <a
             href={APPLY_URL}
-            target="_blank"
+            
             rel="noopener noreferrer"
             className="group relative inline-flex items-center gap-2 px-5 py-2.5 rounded-full bg-gradient-to-r from-emerald-500 to-emerald-600 text-white text-sm font-semibold shadow-lg shadow-emerald-500/30 hover:shadow-emerald-500/50 hover:scale-[1.03] transition-all"
           >
@@ -329,7 +329,7 @@ function Nav() {
               ))}
               <a
                 href={APPLY_URL}
-                target="_blank"
+                
                 rel="noopener noreferrer"
                 className="mt-2 px-4 py-3 rounded-lg bg-gradient-to-r from-emerald-500 to-emerald-600 text-white text-center font-semibold"
               >
@@ -413,7 +413,7 @@ function Hero() {
           >
             <a
               href={APPLY_URL}
-              target="_blank"
+              
               rel="noopener noreferrer"
               className="group relative inline-flex items-center justify-center gap-2 px-8 py-4 rounded-full bg-gradient-to-r from-emerald-500 to-emerald-600 text-white font-semibold shadow-xl shadow-emerald-500/30 hover:shadow-emerald-500/60 hover:scale-[1.03] transition-all text-base"
             >
@@ -425,7 +425,7 @@ function Hero() {
             </a>
             <a
               href={JOBS_URL}
-              target="_blank"
+              
               rel="noopener noreferrer"
               className="group inline-flex items-center justify-center gap-2 px-8 py-4 rounded-full glass text-white font-semibold hover:bg-white/10 transition-all text-base"
             >
@@ -666,7 +666,7 @@ function Jobs() {
 
               <a
                 href={APPLY_URL}
-                target="_blank"
+                
                 rel="noopener noreferrer"
                 className="mt-auto group/btn inline-flex items-center justify-center gap-2 px-5 py-3 rounded-xl bg-white/5 hover:bg-gradient-to-r hover:from-emerald-500 hover:to-emerald-600 border border-white/10 hover:border-emerald-400/50 text-white font-semibold transition-all"
               >
@@ -685,7 +685,7 @@ function Jobs() {
         >
           <a
             href={JOBS_URL}
-            target="_blank"
+            
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-full glass hover:bg-white/10 text-white font-semibold transition-all"
           >
@@ -747,7 +747,7 @@ function WhyJoin() {
                 <p className="text-base sm:text-lg text-slate-400 leading-relaxed mb-6">{item.desc}</p>
                 <a
                   href={APPLY_URL}
-                  target="_blank"
+                  
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 text-emerald-400 font-semibold hover:text-emerald-300 group/link"
                 >
@@ -1038,7 +1038,7 @@ function FinalCTA() {
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
               href={APPLY_URL}
-              target="_blank"
+              
               rel="noopener noreferrer"
               className="group relative inline-flex items-center justify-center gap-2 px-8 py-4 rounded-full bg-gradient-to-r from-emerald-500 to-emerald-600 text-white font-semibold shadow-xl shadow-emerald-500/40 hover:shadow-emerald-500/70 hover:scale-[1.03] transition-all text-base"
             >
@@ -1050,7 +1050,7 @@ function FinalCTA() {
             </a>
             <a
               href={CONTACT_URL}
-              target="_blank"
+              
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 px-8 py-4 rounded-full glass text-white font-semibold hover:bg-white/10 transition-all text-base"
             >
@@ -1143,7 +1143,7 @@ function Footer() {
               </li>
               <li className="flex items-center gap-2">
                 <Phone className="w-4 h-4 text-emerald-400 flex-shrink-0" />
-                <a href="tel:+18009627885" className="hover:text-emerald-400">1-800-962-7885</a>
+                <a href="tel:+18009627885" className="hover:text-emerald-400">1-832-358-3723</a>
               </li>
               <li className="flex items-center gap-2">
                 <Mail className="w-4 h-4 text-emerald-400 flex-shrink-0" />
